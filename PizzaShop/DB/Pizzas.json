@@ -1,0 +1,20 @@
+{
+  "pizzas": [
+    {
+      "name": "Margherita",
+      "ingredients": [ "dough", "cheese", "sauce" ]
+    },
+    {
+      "name": "Pepperoni",
+      "ingredients": [ "dough", "cheese", "sauce" ]
+    },
+    {
+      "name": "Vegetarian",
+      "ingredients": [ "dough", "cheese", "sauce" ]
+    },
+    {
+      "name": "Hawaiian",
+      "ingredients": [ "dough", "cheese", "sauce", "chicken" ]
+    }
+  ]
+}
